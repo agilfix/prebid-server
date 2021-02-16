@@ -16,7 +16,7 @@
         },
         "placementKey": {
             "type": "string",
-            "description": "An uniq name which identifies this placement of the impression. Must be used with publisherId"
+            "description": "A unique name which identifies this placement of the impression. Must be used with publisherId"
         },
         "keyValues": {
             "type": "object",
